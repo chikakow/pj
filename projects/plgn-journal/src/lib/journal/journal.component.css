@@ -1,0 +1,91 @@
+
+h1 {  
+    color: #2f2f2f;
+    font-family: "Roboto-Thin", Helvetica, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+    font-weight: bold;
+    font-weight: bold;
+    font-size: 2em;
+    letter-spacing: normal;
+    line-height: 1.25;
+    margin-top: 0.65em;
+    margin-bottom: 0.15em;
+    margin-left: 89px;
+    margin-right: 0;
+}
+
+.gridWidth{
+    width:100%;
+    left: 85px;
+}
+
+
+.column-Menu {
+    left: 1308px !important;
+    top: 50px !important;
+    width: 227px;
+    height: auto;
+    overflow: visible;
+    display: block;
+    position: absolute;
+    z-index: 10002;
+}
+
+
+
+
+
+
+@media only screen and (min-width: 375px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:48% !important;
+    }
+}
+@media only screen and (min-width: 576px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:80% !important;
+    }
+}
+@media only screen and (min-width: 667px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:59% !important;
+    }
+}
+@media only screen and (min-width: 735px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:64% !important;
+    }
+}
+@media only screen and (min-width: 968px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:71% !important;
+    }
+}
+@media only screen and (min-width: 1024px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:73% !important;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:76% !important;
+    }
+}
+@media only screen and (min-width: 1366px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:80% !important;
+    }
+}
+@media only screen and (min-width: 1920px) {
+    /* styles for browsers larger than 960px; */
+    .responsivePlugin{
+        left:61% !important;
+    }
+}
